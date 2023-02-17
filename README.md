@@ -1,1 +1,8 @@
 # Iris-Data-Exploration
+The Iris dataset is a popular dataset that contains measurements of three different species of Iris flowers. It includes the length and width of the sepal and petal for each flower. In this question, you are asked to explore the Iris dataset and generate various visualizations and statistics for each class of flowers.
+Specifically,  steps are shown to create 2D scatter plots of the four features, which will show the relationships between each pair of features and steps for creating a 3D scatter plot of three features: sepal length, sepal width, and petal width, which will show the relationship between these features in a 3D space.
+To visualize the entire feature matrix (columns 1-4) as an image, one need to plot the data in a heatmap or an image plot.
+Next, for each class of flower, I generated histograms and boxplots of the four features. The histograms will show the distribution of each feature within each class, while the boxplots will show the median, quartiles, and range of each feature.
+I also calculated the correlation and covariance matrices for each class, which will give you an idea of how strongly each feature is related to the others and whether the relationship is positive or negative.
+Finally, created a parallel coordinate plot of the four features for each class and visualize them in the same figure. This plot will allow you to compare the values of each feature across different classes and see how they relate to each other.
+Overall, these visualizations and statistics will help you gain a better understanding of the Iris dataset and the relationships between the different features for each class of flower.
